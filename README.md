@@ -1,8 +1,8 @@
 # VisualizationwithExcel
 Visualization using Excel
 
-The dataset used in this lab comes from the following source: https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive in the IBM Accelerator Catalog.
-Download the file CarSalesByModelStart.xlsx. Upload and open the file in Excel for the web.
+The dataset used in this project comes from the following source: https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive in the IBM Accelerator Catalog.
+Download the file CarSalesByModelStart.xlsx. Upload and open the file in Excel.
 I have created some visualizations to demonstrate car sales and profits for each dealer.
 
 Following are the visualizations on each sheet in CarSalesByModelEnd.xlsx file:
